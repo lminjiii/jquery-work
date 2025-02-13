@@ -1,9 +1,11 @@
-table, td{
+table, tr, td, th{
   border: 1px solid #333;
 }
+
 th{
   width: 50px;
 }
+
 div{
   display: flex;
   margin: 10px 10px;
